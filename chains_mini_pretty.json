@@ -2569,7 +2569,7 @@
     "symbol": "NMT",
     "decimals": 12
   },
-  "rpc": ["https://nftmart.substrate.ws/rpc/http"],
+  "rpc": ["https://nftmart.substrate.rs/rpc/http"],
   "faucets": [],
   "infoURL": "https://nftmart.io"
 }, {

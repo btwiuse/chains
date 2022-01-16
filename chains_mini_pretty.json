@@ -2560,6 +2560,19 @@
   "faucets": ["https://zeroscan.singularity.gold"],
   "infoURL": "https://www.singularity.gold"
 }, {
+  "name": "NFTMart Mainnet",
+  "chainId": 12191,
+  "shortName": "nmt",
+  "networkId": 12191,
+  "nativeCurrency": {
+    "name": "NFTMart Token",
+    "symbol": "NMT",
+    "decimals": 12
+  },
+  "rpc": ["https://nftmart.substrate.ws/rpc/http"],
+  "faucets": [],
+  "infoURL": "https://nftmart.io"
+}, {
   "name": "MetaDot Mainnet",
   "chainId": 16000,
   "shortName": "mtt",

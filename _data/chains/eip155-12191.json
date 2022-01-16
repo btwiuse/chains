@@ -1,0 +1,11 @@
+{
+  "name": "NFTMart Mainnet",
+  "shortName": "nmt",
+  "chain": "NMT",
+  "chainId": 12191,
+  "networkId": 12191,
+  "rpc": ["https://nftmart.substrate.rs/rpc/http"],
+  "faucets": [],
+  "infoURL": "https://nftmart.io",
+  "nativeCurrency": {"name":"NFTMart Token","symbol":"NMT","decimals":12}
+}

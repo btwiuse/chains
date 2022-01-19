@@ -3366,8 +3366,8 @@
     "standard": "EIP3091"
   }]
 }, {
-  "name": "NFTMart Mainnet",
-  "shortName": "nmt",
+  "name": "NFTMart EVM Testnet",
+  "shortName": "nftmart-evm",
   "chain": "NMT",
   "chainId": 12191,
   "networkId": 12191,
@@ -3376,8 +3376,8 @@
   "infoURL": "https://nftmart.io",
   "nativeCurrency": {
     "name": "NFTMart Token",
-    "symbol": "NMT",
-    "decimals": 12
+    "symbol": "MNMT",
+    "decimals": 18
   }
 }, {
   "name": "MetaDot Mainnet",

@@ -2560,14 +2560,14 @@
   "faucets": ["https://zeroscan.singularity.gold"],
   "infoURL": "https://www.singularity.gold"
 }, {
-  "name": "NFTMart Mainnet",
+  "name": "NFTMart EVM Testnet",
   "chainId": 12191,
-  "shortName": "nmt",
+  "shortName": "nftmart-evm",
   "networkId": 12191,
   "nativeCurrency": {
     "name": "NFTMart Token",
-    "symbol": "NMT",
-    "decimals": 12
+    "symbol": "MNMT",
+    "decimals": 18
   },
   "rpc": ["https://nftmart.substrate.rs/rpc/http"],
   "faucets": [],

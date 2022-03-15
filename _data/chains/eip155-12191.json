@@ -4,8 +4,8 @@
   "chain": "NMT",
   "chainId": 12191,
   "networkId": 12191,
-  "rpc": ["https://nftmart.substrate.rs/rpc/http"],
+  "rpc": ["https://staging.nftmart.io/rpc/http"],
   "faucets": [],
   "infoURL": "https://nftmart.io",
-  "nativeCurrency": {"name":"NFTMart Token","symbol":"MNMT","decimals":18}
+  "nativeCurrency": {"name":"NFTMart Token","symbol":"EVM_NMT","decimals":18}
 }

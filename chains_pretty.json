@@ -3376,7 +3376,7 @@
   "infoURL": "https://nftmart.io",
   "nativeCurrency": {
     "name": "NFTMart Token",
-    "symbol": "EVM_NMT",
+    "symbol": "EVMNMT",
     "decimals": 18
   }
 }, {

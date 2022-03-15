@@ -2566,7 +2566,7 @@
   "networkId": 12191,
   "nativeCurrency": {
     "name": "NFTMart Token",
-    "symbol": "EVM_NMT",
+    "symbol": "EVMNMT",
     "decimals": 18
   },
   "rpc": ["https://staging.nftmart.io/rpc/http"],

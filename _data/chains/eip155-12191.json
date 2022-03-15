@@ -7,5 +7,5 @@
   "rpc": ["https://staging.nftmart.io/rpc/http"],
   "faucets": [],
   "infoURL": "https://nftmart.io",
-  "nativeCurrency": {"name":"NFTMart Token","symbol":"EVM_NMT","decimals":18}
+  "nativeCurrency": {"name":"NFTMart Token","symbol":"EVMNMT","decimals":18}
 }
